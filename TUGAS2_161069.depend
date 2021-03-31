@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616527431 source:c:\users\asus\documents\briliando\tugas2_161069\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
